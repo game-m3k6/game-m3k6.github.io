@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "description" : "游戏说明",
+    "master" : "主公一览",
+    "person" : "登场武将",
+    "story" : "剧本",
+    "download" : "游戏下载",
+    "crowdfunding" : "游戏众筹",
+    "log" : "开发者日志"
+  },
+  "language": {
+    "zh": "中文",
+    "zh_TW": "繁体中文",
+    "en": "英文",
+    "ja": "日文"
+  },
+  "theme": {
+    "deep_purple_amber": "深紫和琥珀",
+    "indigo_pink": "靛蓝和粉红",
+    "pink_blue_grey": "粉红和蓝灰",
+    "purle_green": "紫色和绿色"
+  },
+  "text": {
+    "select_theme": "选择一个主题",
+    "select_language": "选择一个语言"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "description" : "Description",
+    "master" : "Master",
+    "person" : "Person",
+    "story" : "Story",
+    "download" : "Download",
+    "crowdfunding" : "Crowdfunding",
+    "log" : "Developer log"
+  },
+  "language": {
+    "zh": "Chinese",
+    "zh_TW": "Traditional Chinese",
+    "en": "English",
+    "ja": "Japanese"
+  },
+  "theme": {
+    "deep_purple_amber": "Deep Purple & Amber",
+    "indigo_pink": "Indigo & Pink",
+    "pink_blue_grey": "Pink & Blue-grey",
+    "purle_green": "Purple & Green"
+  },
+  "text": {
+    "select_theme": "Select a theme",
+    "select_language": "Select a language"
+  }
+}

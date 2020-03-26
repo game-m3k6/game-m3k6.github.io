@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "description": "ゲームシステム",
+    "master": "メインキャラクター",
+    "person": "登場武将",
+    "story": "シナリオ",
+    "download": "ダウンロード",
+    "crowdfunding": "クラウドファンディング",
+    "log": "開発者ログ"
+  },
+  "language": {
+    "zh": "中国語",
+    "zh_TW": "繁体字中国語",
+    "en": "英語",
+    "ja": "日本语"
+  },
+  "theme": {
+    "deep_purple_amber": "ディープパープル＆アンバー",
+    "indigo_pink": "インディゴ＆ピンク",
+    "pink_blue_grey": "ピンク＆ブルーグレー",
+    "purle_green": "パープル＆グリーン"
+  },
+  "text": {
+    "select_theme": "テーマを選択してください",
+    "select_language": "言語を選択してください"
+  }
+}

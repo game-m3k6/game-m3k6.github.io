@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "description" : "遊戲說明",
+    "master" : "主公一覽",
+    "person" : "登場武将",
+    "story" : "劇本",
+    "download" : "遊戲下載",
+    "crowdfunding" : "遊戲眾籌",
+    "log" : "開發者日誌"
+  },
+  "language": {
+    "zh": "簡體中文",
+    "zh_TW": "繁體中文",
+    "en": "英文",
+    "ja": "日文"
+  },
+  "theme": {
+    "deep_purple_amber": "深紫和琥珀",
+    "indigo_pink": "靛藍和粉紅",
+    "pink_blue_grey": "粉紅和藍灰",
+    "purle_green": "紫色和綠色"
+  },
+  "text": {
+    "select_theme": "選擇一個主題",
+    "select_language": "選擇一種語言"
+  }
+}
